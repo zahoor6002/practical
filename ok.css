@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    --primary-color: #ff7613
+    --text-color: #727171
+}
+html {
+    font-size: 10px;
+}
+body {
+    font-family: inter,  sans-serif;
+    background-color: black;
+    color: darkorange;
+    text-align: center;
+    
+}
+/* common styles */
+img {
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    color: wheat;
+    text-align: center;
+    font-weight: 400;
+}
